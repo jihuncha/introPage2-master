@@ -10,3 +10,10 @@
 //     },
 //   },
 // };
+
+module.exports = {
+    publicPath:'/introPage2-master/',
+    outputDir:'./docs'
+}
+
+
